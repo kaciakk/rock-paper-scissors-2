@@ -1,8 +1,7 @@
 # Rock Paper Scissors Game
 
 Welcome to the Rock Paper Scissors Game!
-
-![ezgif com-gif-maker (1)](https://github.com/kaciakk/rock-paper-scissors/assets/95936444/8d9d7b79-d160-4388-a879-4df09bb7bbd7)
+![2024-06-0714-35-30-ezgif com-video-to-gif-converter](https://github.com/kaciakk/rock-paper-scissors-2/assets/95936444/8e07e29f-f2d8-4153-96ff-65b401eec88b)
 
 ## Instructions
 
