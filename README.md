@@ -8,7 +8,7 @@ The game allows the player to compete against the computer, track results and sa
 
 ## 🎮 Live Demo
 
-🔗 Live: https://kaciak-rock-paper-scissors.netlify.app/
+🔗 Live: https://rock-paper-scissors-2-kaciak.netlify.app/
 
 ---
 
