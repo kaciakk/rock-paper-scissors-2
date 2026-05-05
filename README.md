@@ -1,35 +1,72 @@
-# Rock Paper Scissors Game
+# ✊✋✌️ Rock Paper Scissors Game
 
-Welcome to the Rock Paper Scissors Game!
+A simple and interactive **Rock Paper Scissors** game built with **HTML, CSS and JavaScript**.
 
-![2024-06-0714-37-35-ezgif com-video-to-gif-converter](https://github.com/kaciakk/rock-paper-scissors-2/assets/95936444/34db866b-6c65-487e-82b1-5eede04c59f1)
+The game allows the player to compete against the computer, track results and save the best score locally.
 
+---
 
-## Instructions
+## 🎮 Live Demo
 
-1. Click on one of the three options: Rock, Paper, or Scissors.
-2. The computer will randomly select its choice.
-3. The game will determine the winner based on the rules: Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
-4. Your wins, losses, and ties are recorded.
+🔗 Live: https://kaciak-rock-paper-scissors.netlify.app/
 
-## How to Play
+---
 
-- Click on one of the three buttons to make your choice.
-- The game will reveal the computer's choice and announce the winner.
-- Your wins, losses, and ties will be recorded.
+## 📸 Preview
 
+<p align="center">
+  <img src="https://github.com/kaciakk/rock-paper-scissors-2/assets/95936444/34db866b-6c65-487e-82b1-5eede04c59f1" width="800"/>
+</p>
 
-## Highscore
+---
 
-Your highscore is saved locally, allowing you to compete with yourself for the best score.
+## 📌 About The Project
 
-## Technologies Used
+This project is a classic **Rock Paper Scissors** browser game.
 
-- HTML
-- CSS
-- JavaScript
+The player chooses one of three options:
+- Rock
+- Paper
+- Scissors
 
-Feel free to fork this project and make your own modifications. Enjoy the game!
+The computer randomly selects its move, and the game determines the result according to the classic rules.
 
+---
 
+## ✨ Features
 
+- ✊ Rock, Paper, Scissors gameplay
+- 🤖 Random computer choice
+- 🏆 Winner detection
+- 📊 Wins, losses and ties counter
+- 💾 Highscore saved in localStorage
+- ⚡ Simple and dynamic UI
+- 🎮 Easy-to-use controls
+
+---
+
+## 🕹 How To Play
+
+1. Click one of the three buttons: **Rock**, **Paper** or **Scissors**.
+2. The computer will randomly choose its option.
+3. The result will be displayed on the screen.
+4. Your wins, losses and ties will be updated.
+5. Try to beat your best score.
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/kaciakk/rock-paper-scissors-2.git
+cd rock-paper-scissors-2
